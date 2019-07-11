@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .topBar {
+    background: black;
+    color:white;
+    width: 100vw;
+    height: 50px;
+    border-bottom: 1px solid gray;
+    display: flex;
+    align-items: center;
+  }
+
+  .errorBar {
+    background: rgb(230, 70, 70);
+    color:white;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  .mainContainer {
+    height: auto;
+    padding: 20px;
+  }

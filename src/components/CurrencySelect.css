@@ -1,0 +1,21 @@
+
+.select {
+    padding: 10px;
+    border-bottom: 1px solid black !important;
+    border-right: 1px solid black !important;
+    border: transparent;
+    border-radius: 5px;
+}
+
+.buttonConvert {
+    height: 40px;
+    border-radius: 5px;
+    background: black;
+    color: white;
+    border: none;
+    padding: 0px 15px;
+}
+
+.buttonConvert:hover {
+    cursor: pointer;
+}

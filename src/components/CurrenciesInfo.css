@@ -1,0 +1,20 @@
+.CurrencyCard {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.country {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.symbol {
+    font-weight: bold;
+    font-size: 35px;
+}
